@@ -1,4 +1,4 @@
-package com.vince.solution;
+package zju.zsq.solution;
 
 public class TwoSum {
 	public int reverse(int x) {

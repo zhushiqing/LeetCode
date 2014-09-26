@@ -1,4 +1,4 @@
-package com.vince.solution;
+package zju.zsq.solution;
 
 import java.util.HashMap;
 
